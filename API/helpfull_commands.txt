@@ -1,0 +1,8 @@
+﻿// Create migrations
+dotnet ef migrations add "NAME" -o Data/migrations
+
+// update DB
+dotnet ef database update
+
+// rebuild on change
+dotnet watch run 
