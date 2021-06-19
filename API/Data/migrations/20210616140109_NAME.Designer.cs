@@ -6,11 +6,11 @@ using Microsoft.EntityFrameworkCore.Infrastructure;
 using Microsoft.EntityFrameworkCore.Migrations;
 using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 
-namespace API.Data.Migrations
+namespace API.Data.migrations
 {
     [DbContext(typeof(DataContext))]
-    [Migration("20210608170054_ExtendedUserEntity")]
-    partial class ExtendedUserEntity
+    [Migration("20210616140109_NAME")]
+    partial class NAME
     {
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {

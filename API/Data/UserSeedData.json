@@ -13,8 +13,8 @@
     "Country": "Malawi",
     "Photos": [
       {
-        "url": "https://randomuser.me/api/portraits/women/53.jpg",
-        "isMain": true
+        "Url": "https://randomuser.me/api/portraits/women/53.jpg",
+        "IsMain": true
       }
     ]
   },
@@ -32,8 +32,8 @@
     "Country": "American Samoa",
     "Photos": [
       {
-        "url": "https://randomuser.me/api/portraits/women/15.jpg",
-        "isMain": true
+        "Url": "https://randomuser.me/api/portraits/women/15.jpg",
+        "IsMain": true
       }
     ]
   },
@@ -51,8 +51,8 @@
     "Country": "Bulgaria",
     "Photos": [
       {
-        "url": "https://randomuser.me/api/portraits/women/97.jpg",
-        "isMain": true
+        "Url": "https://randomuser.me/api/portraits/women/97.jpg",
+        "IsMain": true
       }
     ]
   },
@@ -70,8 +70,8 @@
     "Country": "Azerbaijan",
     "Photos": [
       {
-        "url": "https://randomuser.me/api/portraits/women/69.jpg",
-        "isMain": true
+        "Url": "https://randomuser.me/api/portraits/women/69.jpg",
+        "IsMain": true
       }
     ]
   },
@@ -89,8 +89,8 @@
     "Country": "India",
     "Photos": [
       {
-        "url": "https://randomuser.me/api/portraits/women/22.jpg",
-        "isMain": true
+        "Url": "https://randomuser.me/api/portraits/women/22.jpg",
+        "IsMain": true
       }
     ]
   },
@@ -108,8 +108,8 @@
     "Country": "Israel",
     "Photos": [
       {
-        "url": "https://randomuser.me/api/portraits/men/21.jpg",
-        "isMain": true
+        "Url": "https://randomuser.me/api/portraits/men/21.jpg",
+        "IsMain": true
       }
     ]
   },
@@ -127,8 +127,8 @@
     "Country": "Belize",
     "Photos": [
       {
-        "url": "https://randomuser.me/api/portraits/men/58.jpg",
-        "isMain": true
+        "Url": "https://randomuser.me/api/portraits/men/58.jpg",
+        "IsMain": true
       }
     ]
   },
@@ -146,8 +146,8 @@
     "Country": "Jordan",
     "Photos": [
       {
-        "url": "https://randomuser.me/api/portraits/men/14.jpg",
-        "isMain": true
+        "Url": "https://randomuser.me/api/portraits/men/14.jpg",
+        "IsMain": true
       }
     ]
   },
@@ -165,8 +165,8 @@
     "Country": "Georgia",
     "Photos": [
       {
-        "url": "https://randomuser.me/api/portraits/men/76.jpg",
-        "isMain": true
+        "Url": "https://randomuser.me/api/portraits/men/76.jpg",
+        "IsMain": true
       }
     ]
   },
@@ -184,8 +184,8 @@
     "Country": "Tonga",
     "Photos": [
       {
-        "url": "https://randomuser.me/api/portraits/men/52.jpg",
-        "isMain": true
+        "Url": "https://randomuser.me/api/portraits/men/52.jpg",
+        "IsMain": true
       }
     ]
   }
