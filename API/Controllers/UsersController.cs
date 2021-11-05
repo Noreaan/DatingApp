@@ -4,6 +4,7 @@ using API.Entities;
 using API.Interfaces;
 using AutoMapper;
 using Microsoft.AspNetCore.Authorization;
+using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 using System;
@@ -52,6 +53,12 @@ namespace API.Controllers
 
             if (await _userRepository.SaveAllAsync()) return NoContent();
             return BadRequest("Failed to update the user");
+        }
+
+        [HttpPost("add-photo")]
+        public async Task<PhotoDTO> AddPhoto(IFormFile file)
+        {
+
         }
     }
 }
